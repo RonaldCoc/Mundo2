@@ -821,3 +821,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 18:13:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> te sale una nueva opcion es un punto
 [25Mar2025 18:13:35.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> ah yaaaaa
 [25Mar2025 18:13:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> resolviendo ps uwu
+[25Mar2025 18:35:37.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Not Today, Thank You]
+[25Mar2025 18:38:29.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: You logged in from another location
+[25Mar2025 18:38:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[25Mar2025 18:38:30.098] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Mar2025 18:38:30.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:50277] logged in with entity id 12625 at (-1378.3017871880415, 62.073264324665075, 176.91828603316318)
+[25Mar2025 18:38:30.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
+[25Mar2025 18:40:21.145] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[25Mar2025 18:40:21.147] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
