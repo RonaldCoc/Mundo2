@@ -969,3 +969,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 20:42:22.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was shot by Skeleton
 [25Mar2025 20:43:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Not Today, Thank You]
 [25Mar2025 20:45:53.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/56343, l='ServerLevel[world]', x=-923.49, y=71.00, z=72.10] died, message: 'Leatherworker hit the ground too hard'
+[25Mar2025 20:57:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> hay fantasmas alm
+[25Mar2025 20:58:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> jajaja ahh si xD
+[25Mar2025 21:04:23.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Diamonds!]
+[25Mar2025 21:04:23.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> safo, ya lo dejo ahí
+[25Mar2025 21:04:27.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
+[25Mar2025 21:04:27.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
+[25Mar2025 21:18:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> regreso en la noche xd
+[25Mar2025 21:18:41.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[25Mar2025 21:18:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
+[25Mar2025 21:21:00.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[25Mar2025 21:21:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
