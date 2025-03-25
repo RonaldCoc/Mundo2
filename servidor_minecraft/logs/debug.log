@@ -3138,3 +3138,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 18:40:37.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Mar2025 18:45:37.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Mar2025 18:45:37.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 18:47:11.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RonaldPe25) moved wrongly! 0.34657486397600223
+[25Mar2025 18:47:11.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RonaldPe25) moved wrongly! 0.4880572922393185
+[25Mar2025 18:47:11.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RonaldPe25) moved wrongly! 0.6621419295029227
+[25Mar2025 18:50:37.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 18:50:37.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 18:51:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> andas en cueva?
+[25Mar2025 18:51:12.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> sí y no
+[25Mar2025 18:51:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a
+[25Mar2025 18:51:29.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> converti una cueva en mi base
+[25Mar2025 18:51:33.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> así que sí y no xd
+[25Mar2025 18:51:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ._.
+[25Mar2025 18:51:41.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> veni te hago tour
+[25Mar2025 18:51:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> voy
+[25Mar2025 18:51:55.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to TeemoLimon]
+[25Mar2025 18:52:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ojooo
+[25Mar2025 18:52:13.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> granja
+[25Mar2025 18:52:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> granja 2
+[25Mar2025 18:52:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> de que es esa?
+[25Mar2025 18:52:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> baja
+[25Mar2025 18:52:30.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ah zombies
+[25Mar2025 18:52:47.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> mira cuanta xp te da
+[25Mar2025 18:53:05.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> JJAJAJA
+[25Mar2025 18:53:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> xdddd
+[25Mar2025 18:53:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> te pusiste tryhard
+[25Mar2025 18:53:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> ya movi eso xd
+[25Mar2025 18:53:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> hazte un ascensor
+[25Mar2025 18:53:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> aqui lleno lava
+[25Mar2025 18:54:01.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> y ahi awa
+[25Mar2025 18:54:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> con uno basta
+[25Mar2025 18:54:19.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> a
+[25Mar2025 18:54:29.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> aunque se ve aesthetic
+[25Mar2025 18:55:01.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> aqui es donde estabamos
+[25Mar2025 18:55:08.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> ven
+[25Mar2025 18:55:29.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> aaaaaaahh
+[25Mar2025 18:55:35.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> y con eso vas a la superficiexd
+[25Mar2025 18:55:37.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 18:55:37.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 18:55:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> pero todo esto lo voy a convertir en una aldea subterranea
+[25Mar2025 18:55:55.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> alm
+[25Mar2025 18:56:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ta buena
+[25Mar2025 18:56:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> es lore

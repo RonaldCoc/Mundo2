@@ -3496,12 +3496,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-25 18:45:37 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-03-25 18:14:29 +0000"
