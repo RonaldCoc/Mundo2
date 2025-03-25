@@ -61,138 +61,9 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-24 20:45:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-03-24 20:34:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-03-24 20:27:08 +0000",
-      "minecraft:soul_sand_valley": "2025-03-24 20:38:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-03-24 20:26:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-03-24 20:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-24 20:26:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-24 20:23:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:ghast": "2025-03-24 20:39:15 +0000",
-      "minecraft:hoglin": "2025-03-24 20:44:05 +0000",
-      "minecraft:wither": "2025-03-24 20:35:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-03-24 20:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-03-24 20:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-03-24 20:26:57 +0000"
     },
     "done": true
   },
@@ -202,33 +73,39 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/murmur": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "killed_by": "2025-03-24 20:36:30 +0000"
+      "elytra": "2025-03-24 20:24:22 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "lava_bucket": "2025-03-24 20:29:12 +0000"
+      "has_obsidian": "2025-03-24 20:25:52 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/root": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "requirement": "2025-03-24 20:40:59 +0000"
+      "obsidian": "2025-03-24 20:25:52 +0000"
     },
     "done": true
   },
-  "incendium:quartz_flats/floor_is_tears": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "requirement": "2025-03-24 20:44:31 +0000"
+      "has_obsidian": "2025-03-24 20:25:52 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/slime_poison": {
+  "incendium:root": {
     "criteria": {
-      "poison": "2025-03-24 20:41:46 +0000"
+      "requirement": "2025-03-24 20:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-24 20:26:33 +0000"
     },
     "done": true
   },
@@ -244,87 +121,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-03-24 20:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-03-24 20:34:15 +0000"
-    },
-    "done": true
-  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-03-24 20:26:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-24 20:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_hoglin_stable": "2025-03-24 20:43:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/protecto": {
-    "criteria": {
-      "has_ender_eye": "2025-03-24 20:28:34 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/farseer": {
-    "criteria": {
-      "killed_by": "2025-03-24 20:36:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-03-24 20:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-03-24 20:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-03-24 20:39:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-03-24 20:35:17 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-03-24 20:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:wither": "2025-03-24 20:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-03-24 20:43:06 +0000"
     },
     "done": true
   },
@@ -336,9 +135,15 @@
     },
     "done": false
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "summoned": "2025-03-24 20:34:39 +0000"
+      "has_enchanted_golden_apple": "2025-03-24 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-24 20:26:57 +0000"
     },
     "done": true
   },
@@ -348,9 +153,22 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_obsidian": "2025-03-24 20:25:52 +0000"
+      "minecraft:nether_wastes": "2025-03-24 20:27:08 +0000",
+      "minecraft:soul_sand_valley": "2025-03-24 20:38:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-24 20:28:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-03-24 20:28:34 +0000"
     },
     "done": true
   },
@@ -360,15 +178,15 @@
     },
     "done": true
   },
-  "incendium:ash_barrens/root": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "requirement": "2025-03-24 20:41:27 +0000"
+      "lava_bucket": "2025-03-24 20:29:12 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "fortress": "2025-03-24 20:38:59 +0000"
+      "wither_skull": "2025-03-24 20:34:15 +0000"
     },
     "done": true
   },
@@ -378,9 +196,143 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-03-24 20:26:51 +0000"
+      "has_soul_sand": "2025-03-24 20:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-24 20:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-24 20:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-24 20:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:ghast": "2025-03-24 20:39:15 +0000",
+      "minecraft:hoglin": "2025-03-24 20:44:05 +0000",
+      "minecraft:wither": "2025-03-24 20:35:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-24 20:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither": "2025-03-24 20:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-24 20:35:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-03-24 20:35:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/farseer": {
+    "criteria": {
+      "killed_by": "2025-03-24 20:36:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-03-24 20:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-24 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-03-24 20:39:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-03-24 20:40:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-03-24 20:41:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-03-24 20:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-24 20:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-03-24 20:43:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-03-24 20:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-25 03:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-25 03:08:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-03-25 03:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 03:08:30 +0000"
     },
     "done": true
   },
