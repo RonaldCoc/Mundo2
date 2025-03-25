@@ -2294,3 +2294,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Mar2025 03:12:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ya te di tu comida jara
 [25Mar2025 03:13:03.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ahora vuelvo al rato
 [25Mar2025 03:13:03.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Stone Age]
+[25Mar2025 03:13:19.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Getting an Upgrade]
+[25Mar2025 03:14:03.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 03:14:03.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 03:14:46.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Monster Hunter]
+[25Mar2025 03:16:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT has made the advancement [Stone Age]
+[25Mar2025 03:16:54.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT has made the advancement [Getting an Upgrade]
+[25Mar2025 03:16:56.892] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[25Mar2025 03:16:56.894] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[25Mar2025 03:16:56.894] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[25Mar2025 03:17:41.208] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[25Mar2025 03:17:41.208] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[25Mar2025 03:19:03.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 03:19:03.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 03:20:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [The Lighthouse]
+[25Mar2025 03:21:50.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Crops of the Wild]
+[25Mar2025 03:21:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Sweet Dreams]
+[25Mar2025 03:23:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Crops of the Wild]
+[25Mar2025 03:24:03.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 03:24:03.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 03:26:03.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=64, z=-453} BlockPos{x=-111, y=62, z=-455}
+[25Mar2025 03:26:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: The difficulty has been set to Hard]
+[25Mar2025 03:26:46.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
+[25Mar2025 03:26:46.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 moved too quickly! -6.894127892300247,-4.464159374955443,5.79635801124266
+[25Mar2025 03:26:47.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Acquire Hardware]
+[25Mar2025 03:29:08.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 03:29:08.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 03:29:43.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 was slain by Rocky Roller
+[25Mar2025 03:31:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT fell from a high place
+[25Mar2025 03:31:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:ALDEA1:A:-829:71:723:1:false:0:Internal-overworld-waypoints
+[25Mar2025 03:32:08.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> uy
