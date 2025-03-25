@@ -872,3 +872,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 18:56:31.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
 [25Mar2025 18:56:31.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
 [25Mar2025 18:57:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[25Mar2025 19:26:39.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HaraGamiVT[/100.89.136.60:56413] logged in with entity id 23399 at (-900.4875000119209, 77.0, 64.69999998807907)
+[25Mar2025 19:26:39.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT joined the game
+[25Mar2025 19:27:12.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
+[25Mar2025 19:27:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
+[25Mar2025 19:28:09.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HaraGamiVT[/100.89.136.60:56450] logged in with entity id 23848 at (-902.5265129801315, 78.5, 64.70513326888539)
+[25Mar2025 19:28:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT joined the game
+[25Mar2025 19:31:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [A Seedy Place]
+[25Mar2025 19:44:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Incendium]
+[25Mar2025 19:44:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [We Need to Go Deeper]
+[25Mar2025 19:44:54.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
+[25Mar2025 19:44:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Hellish Paradise]
+[25Mar2025 19:44:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [The Floor is Tears]
+[25Mar2025 19:44:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Strange Biomes]
+[25Mar2025 19:44:56.411] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
