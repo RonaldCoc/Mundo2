@@ -891,3 +891,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 19:54:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has reached the goal [Ghast Buster]
 [25Mar2025 19:54:02.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Take Aim]
 [25Mar2025 19:54:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 19:59:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 20:00:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was shot by Skeleton
+[25Mar2025 20:02:45.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
