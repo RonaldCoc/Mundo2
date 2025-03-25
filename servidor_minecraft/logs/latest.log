@@ -894,3 +894,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 19:59:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
 [25Mar2025 20:00:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was shot by Skeleton
 [25Mar2025 20:02:45.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 20:07:47.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 20:09:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Fetch Me Their Souls!]
+[25Mar2025 20:10:05.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was burnt to a crisp whilst fighting Ghast
+[25Mar2025 20:10:35.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23859, l='ServerLevel[world]', x=-883.47, y=114.00, z=104.70] died, message: 'Villager was slain by Zombie'
+[25Mar2025 20:13:41.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 20:15:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 20:16:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
