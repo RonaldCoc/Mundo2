@@ -3503,3 +3503,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [25Mar2025 19:44:56.411] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
 [25Mar2025 19:45:42.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Mar2025 19:45:42.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 19:47:58.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was fireballed by Ghast
+[25Mar2025 19:50:42.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 19:50:42.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 19:53:33.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/23871, l='ServerLevel[world]', x=-953.78, y=70.00, z=87.78] died, message: 'Fletcher was slain by Zombie'
+[25Mar2025 19:54:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has reached the goal [Ghast Buster]
+[25Mar2025 19:54:02.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Take Aim]
+[25Mar2025 19:54:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[25Mar2025 19:55:42.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 19:55:42.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
