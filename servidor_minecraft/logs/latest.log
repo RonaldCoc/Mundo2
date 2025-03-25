@@ -136,3 +136,80 @@
 [25Mar2025 03:31:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT fell from a high place
 [25Mar2025 03:31:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:ALDEA1:A:-829:71:723:1:false:0:Internal-overworld-waypoints
 [25Mar2025 03:32:08.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> uy
+[25Mar2025 03:33:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> !s
+[25Mar2025 03:34:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Best Friends Forever]
+[25Mar2025 03:34:52.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ./ban
+[25Mar2025 03:36:19.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [The Lighthouse]
+[25Mar2025 03:37:47.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Acquire Hardware]
+[25Mar2025 03:38:36.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> bruno que haces
+[25Mar2025 03:38:47.936] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[25Mar2025 03:38:47.937] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[25Mar2025 03:38:47.937] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[25Mar2025 03:39:01.034] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[25Mar2025 03:39:01.045] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[25Mar2025 03:39:01.045] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[25Mar2025 03:39:01.056] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[25Mar2025 03:39:01.064] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[25Mar2025 03:39:01.064] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[25Mar2025 03:39:01.065] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[25Mar2025 03:39:01.065] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[25Mar2025 03:39:01.065] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[25Mar2025 03:39:11.912] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[25Mar2025 03:39:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> escucho mis clases
+[25Mar2025 03:39:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> mientras juego
+[25Mar2025 03:39:22.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> por?
+[25Mar2025 03:39:27.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[25Mar2025 03:39:33.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> me da intriga lo que estás haciendo cuando estás callado
+[25Mar2025 03:39:39.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> xDDDD
+[25Mar2025 03:41:06.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:ALDEA2:A:-904:92:94:10:false:0:Internal-overworld-waypoints
+[25Mar2025 03:42:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[25Mar2025 03:42:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Sweet Dreams]
+[25Mar2025 03:42:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> zzzzzzzzzzzzz
+[25Mar2025 03:42:18.837] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=345, y=-23, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.838] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=345, y=-22, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.838] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=345, y=-21, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.838] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=345, y=-23, z=273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.839] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=346, y=-23, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.839] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=346, y=-22, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.839] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=346, y=-21, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.839] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=346, y=-23, z=273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.839] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=346, y=-22, z=273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.840] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-23, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.840] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-22, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:42:18.840] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-21, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:25.892] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[25Mar2025 03:42:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> farseer
+[25Mar2025 03:43:54.567] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-23, z=273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:54.569] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[25Mar2025 03:43:54.569] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-22, z=273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:54.570] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-21, z=273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:54.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 88679ms or 1773 ticks behind
+[25Mar2025 03:43:54.571] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=347, y=-23, z=274}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:55.077] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=348, y=-23, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:55.077] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=348, y=-22, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:55.078] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, 17], pos: BlockPos{x=348, y=-21, z=272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[25Mar2025 03:43:55.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[25Mar2025 03:43:55.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
+[25Mar2025 03:43:55.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
+[25Mar2025 03:43:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[25Mar2025 03:43:55.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[25Mar2025 03:43:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
+[25Mar2025 03:43:55.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
+[25Mar2025 03:43:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
+[25Mar2025 03:43:55.272] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e727981[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:55897) lost connection: Disconnected
+[25Mar2025 03:43:55.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@627670aa[id=<null>,name=HaraGamiVT,properties={},legacy=false] (/100.89.136.60:51079) lost connection: Disconnected
+[25Mar2025 03:43:55.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@168d5369[id=<null>,name=RonaldPe25,properties={},legacy=false] (/100.86.179.65:63051) lost connection: Disconnected
+[25Mar2025 03:43:55.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@445718b8[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:55908) lost connection: Disconnected
+[25Mar2025 03:43:55.281] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8858799d-cf04-4d6b-964d-d2d7f7438e9d
+[25Mar2025 03:43:55.309] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID da158ee3-7a2e-4fa3-8800-7b81f6dd7b27
+[25Mar2025 03:43:55.310] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Mundo2/servidor_minecraft/./crash-reports/crash-2025-03-25_03.43.55-server.txt
+[25Mar2025 03:43:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Mar2025 03:43:55.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Mar2025 03:43:55.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Mar2025 03:43:58.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Mar2025 03:44:03.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Mar2025 03:44:03.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Mar2025 03:44:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Mar2025 03:44:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Mar2025 03:44:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Mar2025 03:44:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
